@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-// 3 some conflicting change
+ // 3 some conflicting change
 public class MyActivity extends AppCompatActivity {
 
     @Override
